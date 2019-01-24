@@ -8,16 +8,3 @@ Kubernetes Engine를 사용한 배포(deployments) 관리
 배포(deployments) 소개
   이기종 배포에는 일반적으로 두개 이상의 고유 한 인프라 환경 또는 지역을 연결하여
   특정 기술 또는 온영상의 요구 사항을 해결해야 한다.
-
-
-
-git remote add origin https://source.developers.google.com/p/qwiklabs-gcp-3d245f47c13ca8be/r/default
-
-
-
-
-
-
-
-
-https://hooks.slack.com/services/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gcloud compute networks subnets describe [SUBNET_NAME] --region us-central1
